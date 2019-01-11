@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/negagen/.platformio/penv/bin:/home/negagen/.platformio/penv:/home/negagen/Teensy/teensy_loader_cli:/home/negagen/.local/bin:/home/negagen/bin:/home/negagen/Teensy/teensy_loader_cli:/home/negagen/.local/bin:/home/negagen/bin:/usr/lib64/qt-3.3/bin:/usr/share/Modules/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
